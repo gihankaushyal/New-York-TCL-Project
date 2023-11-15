@@ -1,5 +1,5 @@
 # New-York-TCL-Project
-Predicting Taxi Gratuities In NewYorkCity
+Predicting Taxi Gratuities In New York City
 
 # Overview 
 The goal of
